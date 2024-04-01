@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GameDev/Projects/TopDown/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"E:/GameDev/Projects/TopDown/Content/TopDown/Maps/TopDownMap.umap",
+				"E:/GameDev/Projects/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"E:/GameDev/Projects/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/V9/FYE97PCQGKIRUDX9FB1QCI.uasset",
+				"E:/GameDev/Projects/TopDown/Content/Characters/AI/BP_NPC.uasset",
+				"E:/GameDev/Projects/TopDown/Content/Characters/AI/AI_NPC.uasset",
+				"E:/GameDev/Projects/TopDown/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"E:/GameDev/Projects/TopDown/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"E:/GameDev/Projects/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/L2/OS6GIOJJ8SKVEVRUN1QEYT.uasset",
+				"E:/GameDev/Projects/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/00/UAUD9O4O5Z11AKBNTD0ZTZ.uasset",
+				"E:/GameDev/Projects/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/W_card.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/W_CardHand.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/W_CardHUD.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/BPI_AddCard.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/S_CardInfo.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/DT_Cards.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/BPFL_Cards.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/BP_CardController.uasset",
+				"E:/GameDev/Projects/TopDown/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/CardAssets/heal_icon.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/CardAssets/shield_icon.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/CardAssets/star_icon.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/CardAssets/Star.uasset"
+			]
+		}
+	]
+}
