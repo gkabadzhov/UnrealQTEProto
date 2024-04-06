@@ -27,8 +27,9 @@
 				"E:/GameDev/Projects/TopDown/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"E:/GameDev/Projects/TopDown/Content/CardUI/CardAssets/heal_icon.uasset",
 				"E:/GameDev/Projects/TopDown/Content/CardUI/CardAssets/shield_icon.uasset",
-				"E:/GameDev/Projects/TopDown/Content/CardUI/CardAssets/star_icon.uasset",
-				"E:/GameDev/Projects/TopDown/Content/CardUI/CardAssets/Star.uasset"
+				"E:/GameDev/Projects/TopDown/Content/CardUI/CardAssets/Star.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/BP_CardDragDrop.uasset",
+				"E:/GameDev/Projects/TopDown/Content/CardUI/CardAssets/star_icon.uasset"
 			]
 		}
 	]
